@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://react-stars-rating.netlify.app/" target="_blank">
     <img 
-         src="https://raw.githubusercontent.com/lucasrmagalhaes/star_rating-react/main/public/react-star-rating.jpg?token=AKKKNU7HUDITYLETFHC6JITA6AWL2" 
+         src="https://github.com/vschagas/star_rating_react/blob/main/star_rating/src/starReting.gif" 
          alt="React-Star-Rating" 
     />
   </a>
