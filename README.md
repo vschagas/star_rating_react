@@ -1,6 +1,6 @@
 <h1 align="center">Star_Rating_React ⭐ ⭐ ⭐ ⭐ ⭐</h1>
 
-![Preview Projeto](./src/starRating.gif)
+![Preview Projeto](./star_rating/src/starRating.gif)
 
 <!-- ## Acesse o projeto clicando <a href="https://lauropera.github.io/dont-trumps/">AQUI</a>-->
 
